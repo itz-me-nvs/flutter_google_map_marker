@@ -7,5 +7,3 @@ This Flutter project demonstrates how to create and display custom markers on a 
 - Create custom markers with unique designs.
 - Show additional information in an InfoWindow when a marker is clicked.
 - Use `google_maps_flutter` package to integrate Google Maps.
-
-![App Screenshot](screenshots/screenshot.png)
